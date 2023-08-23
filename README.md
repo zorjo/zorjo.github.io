@@ -1,2 +1,2 @@
 # Sourjyendra Krishna Deb
-[Resume](/resx.pdf)
+[Resume](Sourjyendra%20Krishna%20Deb-Resume-SDE1.pdf)
