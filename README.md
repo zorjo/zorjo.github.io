@@ -1,2 +1,2 @@
-# zorjo.github.io
-The github repo that contains the main page
+# Sourjyendra Krishna Deb
+[Resume](/resx.pdf)
